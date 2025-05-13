@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Supriya Sinha
 
-🎓 MBA (STEM) Candidate @ Babson College | 📊 Business & Data Analytics Enthusiast
+MBA (STEM) Candidate @ Babson College | Business & Data Analytics Enthusiast
 
 I'm passionate about leveraging data to solve complex business challenges and deliver actionable insights that drive meaningful outcomes. With a background in engineering and hands-on experience in business intelligence, data analytics, and process optimization, I enjoy crafting data-driven solutions using tools like Python, R, SQL, Tableau, and Power BI.
 
